@@ -1,4 +1,4 @@
-package net.fabian.repository;
+package net.jose.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.repository.CrudRepository;

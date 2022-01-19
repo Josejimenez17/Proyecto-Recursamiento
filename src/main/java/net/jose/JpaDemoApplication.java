@@ -1,4 +1,4 @@
-package net.fabian;
+package net.jose;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -12,8 +12,8 @@ import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
 import org.springframework.data.domain.Sort;
 
-import net.fabian.model.Categoria;
-import net.fabian.repository.CategoriasRepository;
+import net.jose.model.Categoria;
+import net.jose.repository.CategoriasRepository;
 
 @SpringBootApplication
 public class JpaDemoApplication implements CommandLineRunner{

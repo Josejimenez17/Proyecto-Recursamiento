@@ -1,4 +1,4 @@
-package net.fabian.model;
+package net.jose.model;
 
 import java.util.Date;
 
